@@ -9,7 +9,7 @@ dlib==19.9.0
 face-recognition==1.2.3
 face-recognition-models==0.3.0
 Flask==0.12.2
-Pillow==5.2.0
+Pillow==9.0.1
 tensorflow==1.4.0
 tensorflow-tensorboard==0.4.0rc2
 ffmpeg-python==0.1.6
